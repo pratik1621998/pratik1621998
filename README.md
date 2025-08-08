@@ -28,7 +28,7 @@ I'm a results-driven **Backend Developer** with **2.8+ years of experience**, fo
 
 ## 🔥 Featured Projects
 
-### 🧠 [Dalle4 – AI Image Generator](https://github.com/pratik1621998/dalle4)
+### 🧠 Dalle4 – AI Image Generator
 > Advanced mobile-based AI image editor: face swap, background removal, Ghibli-style filter, etc.
 
 - Developed scalable backend APIs using DRF
