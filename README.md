@@ -53,7 +53,6 @@ I'm a results-driven **Backend Developer** with **2.8+ years of experience**, fo
 
 - ✉️ pratikarthania38@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/pratik-arthania)
-- 🌐 [GitHub](https://github.com/pratik1621998)
 
 ---
 
